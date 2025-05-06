@@ -1,5 +1,5 @@
-# Deskripsi Project Website bertema pengelolaan tiket wisata yang terdiri atas tampilan:
-
+# Deskripsi Project 
+Website bertema pengelolaan tiket wisata yang terdiri atas tampilan:
 Dashboard: berisikan informasi penjualan tiket
 Pengelolaan : berisikan data tiket dalam tabel
 Profile: berisikan profile admin Website hanya berupa tampilan tidak dapat menambahkan data.
